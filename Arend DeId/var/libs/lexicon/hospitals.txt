@@ -1,0 +1,356 @@
+﻿ACACIA
+APZ Sint-Lucia
+AZ
+AZ Alma campus Eeklo
+AZ Alma campus Sijsele
+AZ Damiaan
+AZ Diest
+AZ Groeninge
+AZ H. Familie
+AZ Jan Palfijn Gent
+AZ Jan Portaels
+AZ Klina
+AZ Koningin Fabiola
+AZ Lokeren
+AZ Maria Middelares
+AZ Nikolaas
+AZ OLV Ter Linden
+AZ Oudenaarde
+AZ Sint-Blasius
+AZ Sint-Dimpna
+AZ Sint-Elisabeth
+AZ Sint-Jan Brugge-Oostende AV
+AZ Sint-Jozef
+AZ Sint-Lucas
+AZ Sint-Maarten
+AZ Turnhout
+AZ Vesalius
+AZ Waasland
+AZ Zusters van Barmhartigheid
+Algemeen Stedelijk Ziekenhuis
+Belgisch Zee-Instituut Voor Orthopedie
+CAZ Midden-Limburg
+CH Peltzer-La Tourelle
+CH VALIDA
+CH de Mouscron
+CH de Tubize-Nivelles
+CH du Bois de l'Abbaye et de Hesbaye
+CHC
+CHIREC
+CHR
+CHR Haute Senne
+CHR de Huy
+CHR de Namur
+CHR de la Citadelle
+CHR du Val de Sambre
+CHU Ambroise Paré
+CHU N.D. des Bruyères
+CHU Ourthe Amblève
+CHU de Charleroi
+CHU de Liège
+CHU de Tivoli
+CHwapi
+CIGB OLV van Vrede
+CPAS de Watermael-Boitsfort
+CPAS de Woluwé-St-Lambert
+CV Provinciale Medisch
+Campus Aalst
+Campus André Dumont
+Campus Asse
+Campus Beveren
+Campus Bilzen
+Campus Bornem
+Campus Bree
+Campus Bruggestraat
+Campus Eeuwfeestkliniek
+Campus Fabiolaziekenhuis
+Campus Geraardsbergen
+Campus H. Hart
+Campus Hamme
+Campus Henri Serruys
+Campus JYZ Ieper
+Campus L. De Meesterstraat
+Campus Leopoldstraat
+Campus Maaseik
+Campus Maria's Voorzienigheid
+Campus Mariendal
+Campus Moerlandstraat
+Campus O.-L Vrouw
+Campus OLV Middelares
+Campus Poli Poperingen
+Campus Rijselsestraat
+Campus Rooienberg
+Campus Salvator
+Campus Sint-Augustinus
+Campus Sint-Barbara
+Campus Sint-Fransiscus Xaverius
+Campus Sint-Gillis-Waas
+Campus Sint-Jan
+Campus Sint-Jozef
+Campus Sint-Maarten
+Campus Sint-Niklaas
+Campus Sint-Vincentius
+Campus St-Jozef
+Campus St.-Ursula
+Campus Stadskliniek
+Campus Temse
+Campus Tongeren
+Campus Westlaan
+Campus Wetteren
+Campus Wilgenstraat
+Campus Willebroek
+Campus Zwartzustersvest
+Centre Gériatrique
+Centre Hospitalier EpiCURA
+Centre Hospitalier J. Titeca
+Centre Hospitalier Spécialisé L'Accueil
+Centre Hospitalier de Dinant
+Centre Hospitalier de Jolimont-Lobbes
+Centre Hospitalier de Revalidation
+Centre Hospitalier de Réadaptation et de Psychiatrie du Brabant Wallon
+Centre Hospitalier de l'Ardenne (VIVALIA)
+Centre Neurologique William Lennox
+Centre Neurologique et de Réadaptation Fonctionnelle
+Centre Princesse Astrid
+Centre Psychiatrique Infantile Les Goëlands
+Centre Psychiatrique Saint-Bernard
+Centre Pédiatrique Cure et Soins
+Centre Saint-Georges
+Centre de Santé des Fagnes
+Centre psychiatrique pour enfants et adolescents
+Centrum H. Vander Stokken
+Champ des Alouettes 70A
+Clinique André Renard
+Clinique Notre Dame
+Clinique Notre-Dame de Grâce
+Clinique Notre-Dame des Anges
+Clinique Psychiatrique Frères Alexiens
+Clinique Reine Astrid
+Clinique Saint-Joseph
+Clinique Saint-Luc
+Clinique Saint-Pierre
+Clinique Saint-Vincent
+Clinique Sainte-Elisabeth
+Clinique ULB - Le Domaine
+Clinique de l'Espérance
+Clinique de la Forêt de Soignes
+Clinique du Bois de la Pierre
+Clinique et Maternité Sainte-Elisabeth
+Cliniques Universitaires de Mont-Godinne
+Cliniques du Sud-Luxembourg (VIVALIA)
+Dermatologisch Kliniek Nottebohm
+Domaine Universitaire du Sart Tilman
+Erasmus Ziekenhuis
+Europa Ziekenhuizen
+Feux Follets
+Foyer Saint-François
+Fr. Ferrerlaan 88A
+GZA Ziekenhuizen
+Geriatrisch Centrum Ten Kerselaere
+Gezondheidszorg Heilige Familie
+Grand Hôpital de Charleroi
+Groep Ziekenhuizen La Ramée-Fond'Roy
+H. Hartziekenhuis
+H.-Hartziekenhuis
+Heropbeuring - Kliniek De Mick
+Hôpital André Vésale
+Hôpital Léon Neuens
+Hôpital Léonard de Vinci
+Hôpital Neuro-Psychiatrique Saint-Martin
+Hôpital Psychiatrique Le Chêne aux Haies
+Hôpital Psychiatrique Les Marronniers
+Hôpital Psychiatrique du Beau Vallon
+Hôpital Vincent Van Gogh
+Hôpital civil
+Hôpital de Jour
+Hôpital de Jour Universitaire La Clé
+Hôpital de Warquignies
+Hôpital du Sart Tilman
+IFAC (VIVALIA)
+Imeldaziekenhuis - St-Elisabethkliniek
+Institut Neuro-Psychiatrique La Clairière (VIVALIA)
+Institut Psychiatrique Charles Borromée
+Institut Psychiatrique Saint Jean de Dieu
+Instituut Albert I en Koningin Elisabeth
+Instituut Pacheco
+Intercommunale de Soins Spécialisés de Liège (ISoSL)
+Iris Ziekenhuizen Zuid
+Jan Yperman Ziekenhuis
+Joodse Weldadigheid
+Jules Bordet Instituut
+Kliniek De Pelgrim
+Kliniek Fond'Roy
+Kliniek La Ramée
+Kliniek OLV Van Lourdes
+Kliniek Sanatia
+Kliniek Sint Jan
+Klinik St. Josef
+Koningin Elisabeth Instituut
+La Gleize
+La Petite Maison
+MS- en Neurologisch Revalidatiecentrum
+Magnolia
+Mariaziekenhuis Noord-Limburg
+Medisch Centrum Ninove
+Medisch Centrum St.-Jozef
+Militaire Ziekenhuis Koningin Astrid
+Monica
+Monica vzw - Apra Kliniek
+Montagne Sainte Walburge 4a
+Nationaal Multiple Sclerose Centrum
+Neurologisch Kliniek St-Jozef
+Nieuw Medister
+O.L.Vrouwziekenhuis
+OPZ Geel
+Openbaar Psychiatrisch Ziekenhuis Rekem
+P. Damiaanstraat 33A
+Parhélie
+Pater Damiaan en Stichting voor Psycho-Geriatrie
+Place de Becquerelle 1B
+Psychiatrisch Centrum Bethanienhuis
+Psychiatrisch Centrum Broeders Alexianen
+Psychiatrisch Centrum Caritas
+Psychiatrisch Centrum Dr Guislain
+Psychiatrisch Centrum Sancta Maria
+Psychiatrisch Centrum Sint Hiëronymus
+Psychiatrisch Centrum Sint-Amandus
+Psychiatrisch Centrum Sint-Amedeus
+Psychiatrisch Centrum Sint-Jan
+Psychiatrisch Centrum Sint-Jan de Deo
+Psychiatrisch Centrum Ziekeren
+Psychiatrisch Ziekenhuis Heilig Hart
+Psychiatrisch Ziekenhuis Onze-Lieve-Vrouw
+Psychiatrisch Ziekenhuis Sint-Camillus
+Psychiatrisch Ziekenhuis St-Fransiscus
+Psychiatrisch Ziekenhuis St-Jan Baptist
+Psychiatrisch Ziekenhuis St-Norbertus
+Psychiatrisch ziekenhuis St-Annendael
+Psychiatrische Centra Sleidinge
+Psychiatrische Kliniek
+Psychiatrische Kliniek Broeders Alexianen
+Psychiatrische Kliniek St-Alexius
+Psychiatrische Verzorgingstehuis
+Psycho-Geriatrisch Centrum
+Psycho-Geriatrische Centrum
+Psycho-Sociaal Centrum
+Psycho-Sociaal Centrum Sint-Alexius
+Psycho-Therapeutisch Centrum Rustenburg
+RVT-Paradijs
+RZ Heilig Hart Tienen
+Regionaal Ziekenhuis H. Hart
+Regionaal Ziekenhuis Sint Maria vzw
+Revalidatiecentrum Heizel-G.Brugmann
+Revalidatiecentrum Hof ter Schelde
+Revalidatiecentrum Ten Bos
+Route des Ardoisières
+Rue Montagne Ste-Walburge 4 bis
+Rue de Houffalize 1A
+Rusthuis Heiderust
+Résidence pour Seniors
+Sans Souci Kliniek
+Sint-Andriesziekenhuis
+Sint-Janhospitaal
+Sint-Jozefkliniek
+Sint-Jozefskliniek
+Sint-Rembertziekenhuis
+Sint-Trudo Ziekenhuis
+Sint-Vincentiusziekenhuis
+Site 2 Alice
+Site Agora
+Site Baron Lambert
+Site Clinique Edith Cavell
+Site Clinique Edmond Jacques
+Site Clinique Saint-Joseph
+Site Clinique Sainte Rosalie
+Site Clinique de la Basilique
+Site Clinique du Parc Léopold
+Site César de Paepe
+Site Dorcas
+Site Etterbeek-Elsene
+Site Fabiolalaan
+Site Goffin
+Site Hôpital Princesse Paola
+Site Hôpital Sainte-Thérèse
+Site IMC
+Site IMTR
+Site Joseph Bracops
+Site Koningin Astrid
+Site Le Péri
+Site Molière Longchamp
+Site Moranville
+Site Notre Dame
+Site Notre-Dame
+Site Paul Brien
+Site Reine Fabiola
+Site Saint-Joseph
+Site Sainte-Thérése
+Site Sint-Pieter
+Site St.-Elisabeth
+Site St.-Michel
+Site Union
+Site Valdor
+Site Victor Horta
+Site Watersportbaan
+Site d'Ath
+Site d'Hornu
+Site de Baudour
+Site de Beloeil
+Site de Braine-l'Alleud
+Site de Frameries
+Site de Jolimont
+Site de Lobbes
+Site de Nivelles
+Site de Saint-Vincent
+Site de Seraing
+Site de Tubize
+Site de Waremme
+Site du Château Rouge
+Site du Petit Bourgogne
+Site du Tilleriau
+Sociale Intercommunale Vereniging Lemberge
+St Etienne Kliniek
+St-Augustinus Kliniek
+St-Nikolaus Hospital
+Stationstraat 22 C
+Ste Anne-St Remi Kliniek
+Stedelijk Ziekenhuis
+Stichting "Ter Kameren"
+Stichting voor de Psychogeriatrie
+UKZKF
+UMC Sint-Pieter
+UVC Brugmann
+UZ
+UZA
+UZG
+UZL
+Universitair Ziekenhuis
+UZ Antwerpen
+UZ Brussel
+UZ Gasthuisberg
+UZ Gent
+UZ Leuven
+UZ Pellenberg
+UZ Sint Pieter
+UZ St-Luc
+Universitair Centrum Sint-Jozef
+Universitair Psychiatrisch Centrum St-Kamillus
+Verpleeginrichting De Dennen
+Verpleegtehuis Godvelde
+Virga Jesse Ziekenhuis
+Volkskliniek
+ZNA
+ZNA Hoge Beuken
+ZNA Jan Palfijn
+ZNA Joostens
+ZNA Koningin Paola Kinderziekenhuis
+ZNA Middelheim
+ZNA Psychiatrisch Ziekenhuis Stuivenberg
+ZNA Sint-Elisabeth
+ZNA Sint-Erasmus
+ZNA Stuivenberg
+ZNA Universitair Centrum Kinder- en Jeugspsychiatrie
+Ziekenhuis Inkendaal - Koninklijke Instelling
+Ziekenhuis Maas en Kempen
+Ziekenhuis Oost-Limburg
+Ziekenhuis St.-Franciskus
+Ziekenhuizen Salvator - St.-Ursula
